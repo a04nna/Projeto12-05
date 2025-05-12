@@ -1,0 +1,25 @@
+h1{
+    color: rgb(49, 79, 92);
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+    border-style:dashed;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(110, 169, 196);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    border-style:solid;
+    border-color: rgb(72, 115, 134);
+    border-radius: 10px;
+    padding: 10px;
+    width: max-content;
+}

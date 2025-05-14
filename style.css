@@ -23,3 +23,8 @@ h2{
     padding: 10px;
     width: max-content;
 }
+
+h3{
+    text-align: center;
+    color: white;
+}

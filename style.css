@@ -1,11 +1,12 @@
 h1{
-    color: rgb(28, 52, 126);
+    color: white;
     text-align: center;
     padding-top: 30px;
     font-size: 50px;
     border-style:dashed;
     padding: 20px;
     border-radius: 10px;
+    border-color:rgb(28, 52, 126) ;
 }
 
 body{
@@ -28,4 +29,8 @@ h3{
     text-align: center;
     color: rgb(28, 52, 126);
     font-size: 20px;
+}
+
+img{
+    
 }

@@ -31,6 +31,12 @@ h3{
 img{
     align-items: center;
     width: 50%;
+    border-radius: 10px;
+}
+
+p{
+    display: flex;
+    margin: 10px 30px 10px 30px;
 }
 
 

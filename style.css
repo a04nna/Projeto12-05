@@ -35,10 +35,10 @@ img{
 }
 
 p{
+    font-size: 1.5rem;
     display: flex;
     margin: 10px 30px 10px 30px;
 }
-
 
 .botao a{
   font-size: 1.5rem;
